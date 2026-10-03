@@ -127,3 +127,23 @@ int main(const int argc, char ** argv) {
     return 0;
 }
 ~~~
+
+## Disclosure
+*Note:* This template code was designed by J. W. Miller (of Miller Inc.), but
+    was built off code presented by Google Gemini as a rendering backend basis.
+    The entire modular design was, however, designed and developed by hand by a 
+    real human. 
+
+*Third-party code:* This template does use code owned and developed by people 
+    outside of Miller Inc. This means that you should make sure to check with 
+    their repositories and codebases to make sure that you, yourself, give 
+    proper attribution to their work. This code base pulls that code from 
+    their repos, thus including their licenses in this codebase, but the
+    CMake script does not automatically copy them to the build directory.
+    Make sure that when you ship, you include those files. 
+
+***
+
+<p style="text-align: center;">
+  Copyright &copy; 2026 J. W. Miller; Miller Inc. All Rights Reserved.
+</p>
